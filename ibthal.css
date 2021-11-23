@@ -1,0 +1,25 @@
+            .container{
+            width: 940px;
+            margin: auto;
+            }
+            .list_right{
+            display: none;
+            }
+            .pagesuj {
+            width: 960px !important;
+            float: left;
+            margin-left: 5px;
+            box-sizing: border-box;
+            padding-top: 10px;
+}
+
+
+			 h2{
+            padding: 0px;
+            margin: 0px;
+            color: #092C6B;
+            width: 100%;
+            border-bottom: none !important;
+            font-size: 18px;
+            font-weight: lighter;
+            }
